@@ -9,7 +9,7 @@
  * @license MIT
  */
 (function() {
-	var Namespace = classified({
+	var Namespace = {
 		/*
 		 * Namespaces collection
 		 */
@@ -150,11 +150,8 @@
 			}
 		}
 
-	})
-
-	/* Instanstiate Class */
-	Namespace = Namespace.load();
-
+	};
+	
 	/* Plug to window object */
 	window.Namespace = Namespace;
 })(jQuery);
