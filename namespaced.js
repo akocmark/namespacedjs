@@ -3,7 +3,7 @@
  * 
  * Resolves conflicting variable names in a package-driven application
  *
- * @version 0.1
+ * @version 0.1.2
  * @author Mark Augustine Gutierrez <mgutierrez@koodi.ph>
  * @website https://github.com/akocmark/namespacedjs
  * @license MIT
