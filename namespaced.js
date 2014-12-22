@@ -151,7 +151,7 @@
 		}
 
 	};
-	
+
 	/* Plug to window object */
 	window.Namespace = Namespace;
-})(jQuery);
+})();
